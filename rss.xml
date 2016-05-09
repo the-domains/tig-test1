@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[TIG-test1]]></title>
         <description><![CDATA[TIG-test1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tig-test1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 21:42:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 21:44:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tig-test1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/tig-test1/175ba8e1-f1be-4b89-aaae-8ffe87fc2459/index.html</link>
+            <guid isPermaLink="false">175ba8e1-f1be-4b89-aaae-8ffe87fc2459</guid>
+            <pubDate>Mon, 09 May 2016 21:44:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who we are]]></title>
-            <description><![CDATA[<h1>Who we are</h1>]]></description>
-            <link>undefinedwho-we-are/index.html</link>
+            <description><![CDATA[<article><h1>Who we are</h1><p>Trusted IT Group is a Gold Microsoft partner comprised of thought leaders in Project and Program Management that provide innovative cloud and on-premise Project Portfolio Management (PPM) solutions.</p></article>]]></description>
+            <link>https://thegrid.ai/tig-test1/who-we-are/index.html</link>
             <guid isPermaLink="false">900890c5-875d-4065-8947-0c960c720e29</guid>
             <pubDate>Mon, 09 May 2016 21:42:28 GMT</pubDate>
         </item>
