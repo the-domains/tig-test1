@@ -4,8 +4,15 @@
         <description><![CDATA[TIG-test1]]></description>
         <link>https://thegrid.ai/tig-test1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 21:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 21:45:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tig-test1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25e66f26-6b9d-456b-97e5-21b69e7cf5b0.png">]]></description>
+            <link>https://thegrid.ai/tig-test1/00c1e2da-02e4-410f-a965-808564de7711/index.html</link>
+            <guid isPermaLink="false">00c1e2da-02e4-410f-a965-808564de7711</guid>
+            <pubDate>Mon, 09 May 2016 21:45:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://thegrid.ai/tig-test1/175ba8e1-f1be-4b89-aaae-8ffe87fc2459/index.html</link>
