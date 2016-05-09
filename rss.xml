@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TIG-test1]]></title>
         <description><![CDATA[TIG-test1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tig-test1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 21:11:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 21:17:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tig-test1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>congresses.pmi.org/emea2016</p>]]></description>
+            <link>https://thegrid.ai/tig-test1/congressespmiorgemea2016/index.html</link>
+            <guid isPermaLink="false">2a1397ac-84e2-41b2-97d5-04a88e59e7bb</guid>
+            <pubDate>Mon, 09 May 2016 21:17:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://www.trusteditgroup.com/</p>]]></description>
-            <link>undefinedhttpwwwtrusteditgroupcom/index.html</link>
+            <link>https://thegrid.ai/tig-test1/httpwwwtrusteditgroupcom/index.html</link>
             <guid isPermaLink="false">2837ee21-3745-465a-8ca5-6f6026e92961</guid>
             <pubDate>Mon, 09 May 2016 21:11:42 GMT</pubDate>
         </item>
